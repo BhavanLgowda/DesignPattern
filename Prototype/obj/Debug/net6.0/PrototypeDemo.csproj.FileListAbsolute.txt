@@ -1,0 +1,15 @@
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\bin\Debug\net6.0\PrototypeDemo.exe
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\bin\Debug\net6.0\PrototypeDemo.deps.json
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\bin\Debug\net6.0\PrototypeDemo.runtimeconfig.json
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\bin\Debug\net6.0\PrototypeDemo.dll
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\bin\Debug\net6.0\PrototypeDemo.pdb
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\obj\Debug\net6.0\PrototypeDemo.csproj.AssemblyReference.cache
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\obj\Debug\net6.0\PrototypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\obj\Debug\net6.0\PrototypeDemo.AssemblyInfoInputs.cache
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\obj\Debug\net6.0\PrototypeDemo.AssemblyInfo.cs
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\obj\Debug\net6.0\PrototypeDemo.csproj.CoreCompileInputs.cache
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\obj\Debug\net6.0\PrototypeDemo.dll
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\obj\Debug\net6.0\refint\PrototypeDemo.dll
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\obj\Debug\net6.0\PrototypeDemo.pdb
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\obj\Debug\net6.0\PrototypeDemo.genruntimeconfig.cache
+D:\C sharp project\Design Patterns\Creational Design Patterns\PrototypeDemo\PrototypeDemo\obj\Debug\net6.0\ref\PrototypeDemo.dll
