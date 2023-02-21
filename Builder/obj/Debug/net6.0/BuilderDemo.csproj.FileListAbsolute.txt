@@ -1,0 +1,15 @@
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\bin\Debug\net6.0\BuilderDemo.exe
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\bin\Debug\net6.0\BuilderDemo.deps.json
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\bin\Debug\net6.0\BuilderDemo.runtimeconfig.json
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\bin\Debug\net6.0\BuilderDemo.dll
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\bin\Debug\net6.0\BuilderDemo.pdb
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.csproj.AssemblyReference.cache
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.AssemblyInfoInputs.cache
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.AssemblyInfo.cs
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.csproj.CoreCompileInputs.cache
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.dll
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\obj\Debug\net6.0\refint\BuilderDemo.dll
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.pdb
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\obj\Debug\net6.0\BuilderDemo.genruntimeconfig.cache
+D:\C sharp project\Design Patterns\Creational Design Patterns\BuilderDemo\BuilderDemo\obj\Debug\net6.0\ref\BuilderDemo.dll
